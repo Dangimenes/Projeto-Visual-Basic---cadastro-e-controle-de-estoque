@@ -1,0 +1,254 @@
+C:\Users\Edu\Desktop\beautycomputing\beautycomputing\bin\Debug\beautycomputing.exe
+C:\Users\Edu\Desktop\beautycomputing\beautycomputing\bin\Debug\beautycomputing.pdb
+C:\Users\Edu\Desktop\beautycomputing\beautycomputing\bin\Debug\beautycomputing.xml
+C:\Users\Edu\Desktop\beautycomputing\beautycomputing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Edu\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmadicionar.resources
+C:\Users\Edu\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmlogin.resources
+C:\Users\Edu\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.Resources.resources
+C:\Users\Edu\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.vbproj.GenerateResource.Cache
+C:\Users\Edu\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.exe
+C:\Users\Edu\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.xml
+C:\Users\Edu\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.pdb
+C:\Users\Edu\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmcontroleestoque.resources
+C:\Users\Edu\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmagendamentoconsultas.resources
+C:\Users\Edu\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmclientes.resources
+C:\Users\Edu\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmfuncionarios.resources
+C:\Users\Edu\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmatriculaalunos.resources
+C:\Users\Edu\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmservicos.resources
+C:\Users\Edu\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmcarregando.resources
+C:\Users\Edu\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmenudecadastros.resources
+C:\Users\Edu\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmenudepesquisas.resources
+C:\Users\Edu\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmenuprincipaladm.resources
+C:\Users\Edu\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmenuprincipalusuario.resources
+C:\Users\Edu\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmpesquisasClientes.resources
+C:\Users\Edu\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.telaincial.resources
+C:\Users\Edu\Desktop\Nova pasta\beautycomputing\beautycomputing\obj\Debug\beautycomputing.exe
+C:\Users\Edu\Desktop\Nova pasta\beautycomputing\beautycomputing\obj\Debug\beautycomputing.xml
+C:\Users\Edu\Desktop\Nova pasta\beautycomputing\beautycomputing\obj\Debug\beautycomputing.pdb
+C:\Users\Edu\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmpesquisaalunos.resources
+C:\Users\Edu\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmpesquisafuncionarios.resources
+C:\Users\Edu\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmpesquisaservico.resources
+H:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.exe
+H:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.xml
+H:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.pdb
+H:\beautycomputing\beautycomputing\beautycomputing\bin\Debug\beautycomputing.exe
+H:\beautycomputing\beautycomputing\beautycomputing\bin\Debug\beautycomputing.pdb
+H:\beautycomputing\beautycomputing\beautycomputing\bin\Debug\beautycomputing.xml
+H:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\ResolveAssemblyReference.cache
+H:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmcontroleestoque.resources
+H:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmadicionar.resources
+H:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmagendamentoconsultas.resources
+H:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmcarregando.resources
+H:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmenuprincipaladm.resources
+H:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmenuprincipalusuario.resources
+H:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmpesquisaservico.resources
+H:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmservicos.resources
+H:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmclientes.resources
+H:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmfuncionarios.resources
+H:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmlogin.resources
+H:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmatriculaalunos.resources
+H:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmenudecadastros.resources
+H:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmenudepesquisas.resources
+H:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmpesquisaalunos.resources
+H:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmpesquisafuncionarios.resources
+H:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmpesquisasClientes.resources
+H:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.Resources.resources
+H:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.telaincial.resources
+H:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.vbproj.GenerateResource.Cache
+C:\Users\Raphael\Desktop\beautycomputing\beautycomputing\beautycomputing\bin\Debug\beautycomputing.exe
+C:\Users\Raphael\Desktop\beautycomputing\beautycomputing\beautycomputing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Raphael\Desktop\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmcontroleestoque.resources
+C:\Users\Raphael\Desktop\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmadicionar.resources
+C:\Users\Raphael\Desktop\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmagendamentoconsultas.resources
+C:\Users\Raphael\Desktop\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmcarregando.resources
+C:\Users\Raphael\Desktop\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmenuprincipaladm.resources
+C:\Users\Raphael\Desktop\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmenuprincipalusuario.resources
+C:\Users\Raphael\Desktop\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmpesquisaservico.resources
+C:\Users\Raphael\Desktop\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmservicos.resources
+C:\Users\Raphael\Desktop\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmclientes.resources
+C:\Users\Raphael\Desktop\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmfuncionarios.resources
+C:\Users\Raphael\Desktop\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmlogin.resources
+C:\Users\Raphael\Desktop\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmatriculaalunos.resources
+C:\Users\Raphael\Desktop\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmenudecadastros.resources
+C:\Users\Raphael\Desktop\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmenudepesquisas.resources
+C:\Users\Raphael\Desktop\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmpesquisaalunos.resources
+C:\Users\Raphael\Desktop\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmpesquisafuncionarios.resources
+C:\Users\Raphael\Desktop\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmpesquisasClientes.resources
+C:\Users\Raphael\Desktop\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.Resources.resources
+C:\Users\Raphael\Desktop\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.telaincial.resources
+C:\Users\Raphael\Desktop\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.vbproj.GenerateResource.Cache
+C:\Users\Raphael\Desktop\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmagenda.resources
+C:\Users\Raphael\Desktop\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmrelatorios.resources
+C:\Users\Raphael\Desktop\beautycomputing\beautycomputing\beautycomputing\bin\Debug\beautycomputing.pdb
+C:\Users\Raphael\Desktop\beautycomputing\beautycomputing\beautycomputing\bin\Debug\beautycomputing.xml
+C:\Users\Raphael\Desktop\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.exe
+C:\Users\Raphael\Desktop\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.xml
+C:\Users\Raphael\Desktop\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.pdb
+C:\Users\Raphael\Desktop\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmrelatoriosdealunos.resources
+C:\Users\Raphael\Desktop\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmrelatoriosdeclientes.resources
+C:\Users\Raphael\Desktop\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmrelatoriosdefuncionarios.resources
+C:\Users\Raphael\Desktop\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmrelatoriosdeServicos.resources
+D:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.exe
+D:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.xml
+D:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.pdb
+D:\beautycomputing\beautycomputing\beautycomputing\bin\Debug\beautycomputing.exe
+D:\beautycomputing\beautycomputing\beautycomputing\bin\Debug\beautycomputing.pdb
+D:\beautycomputing\beautycomputing\beautycomputing\bin\Debug\beautycomputing.xml
+D:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\ResolveAssemblyReference.cache
+D:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmcontroleestoque.resources
+D:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmadicionar.resources
+D:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmagenda.resources
+D:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmagendamentoconsultas.resources
+D:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmcarregando.resources
+D:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmenuprincipaladm.resources
+D:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmenuprincipalusuario.resources
+D:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmpesquisaservico.resources
+D:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmrelatorios.resources
+D:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmrelatoriosdeclientes.resources
+D:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmservicos.resources
+D:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmclientes.resources
+D:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmfuncionarios.resources
+D:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmlogin.resources
+D:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmatriculaalunos.resources
+D:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmenudecadastros.resources
+D:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmenudepesquisas.resources
+D:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmpesquisaalunos.resources
+D:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmpesquisafuncionarios.resources
+D:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmpesquisasClientes.resources
+D:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.Resources.resources
+D:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.telaincial.resources
+D:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.vbproj.GenerateResource.Cache
+L:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.exe
+L:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.xml
+L:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.pdb
+L:\beautycomputing\beautycomputing\bin\Debug\beautycomputing.exe
+L:\beautycomputing\beautycomputing\bin\Debug\beautycomputing.pdb
+L:\beautycomputing\beautycomputing\bin\Debug\beautycomputing.xml
+L:\beautycomputing\beautycomputing\obj\Debug\ResolveAssemblyReference.cache
+L:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmcontroleestoque.resources
+L:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmadicionar.resources
+L:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmagenda.resources
+L:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmagendamentoconsultas.resources
+L:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmcarregando.resources
+L:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmenuprincipaladm.resources
+L:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmenuprincipalusuario.resources
+L:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmpesquisaservico.resources
+L:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmrelatorios.resources
+L:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmrelatoriosdeclientes.resources
+L:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmservicos.resources
+L:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmclientes.resources
+L:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmfuncionarios.resources
+L:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmlogin.resources
+L:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmatriculaalunos.resources
+L:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmenudecadastros.resources
+L:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmenudepesquisas.resources
+L:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmpesquisaalunos.resources
+L:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmpesquisafuncionarios.resources
+L:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmpesquisasClientes.resources
+L:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.Resources.resources
+L:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.telaincial.resources
+L:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.vbproj.GenerateResource.Cache
+C:\Users\Edu\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmagenda.resources
+C:\Users\Edu\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmrelatorios.resources
+C:\Users\Raphael\Documents\Meus arquivos recebidos\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.exe
+C:\Users\Raphael\Documents\Meus arquivos recebidos\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.xml
+C:\Users\Raphael\Documents\Meus arquivos recebidos\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.pdb
+C:\Users\Raphael\Documents\Meus arquivos recebidos\beautycomputing\beautycomputing\beautycomputing\bin\Debug\beautycomputing.exe
+C:\Users\Raphael\Documents\Meus arquivos recebidos\beautycomputing\beautycomputing\beautycomputing\bin\Debug\beautycomputing.pdb
+C:\Users\Raphael\Documents\Meus arquivos recebidos\beautycomputing\beautycomputing\beautycomputing\bin\Debug\beautycomputing.xml
+C:\Users\Raphael\Documents\Meus arquivos recebidos\beautycomputing\beautycomputing\beautycomputing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Raphael\Documents\Meus arquivos recebidos\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmcontroleestoque.resources
+C:\Users\Raphael\Documents\Meus arquivos recebidos\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmadicionar.resources
+C:\Users\Raphael\Documents\Meus arquivos recebidos\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmagenda.resources
+C:\Users\Raphael\Documents\Meus arquivos recebidos\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmagendamentoconsultas.resources
+C:\Users\Raphael\Documents\Meus arquivos recebidos\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmcarregando.resources
+C:\Users\Raphael\Documents\Meus arquivos recebidos\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmenuprincipaladm.resources
+C:\Users\Raphael\Documents\Meus arquivos recebidos\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmenuprincipalusuario.resources
+C:\Users\Raphael\Documents\Meus arquivos recebidos\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmpesquisaservico.resources
+C:\Users\Raphael\Documents\Meus arquivos recebidos\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmrelatorios.resources
+C:\Users\Raphael\Documents\Meus arquivos recebidos\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmrelatoriosdeclientes.resources
+C:\Users\Raphael\Documents\Meus arquivos recebidos\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmservicos.resources
+C:\Users\Raphael\Documents\Meus arquivos recebidos\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmclientes.resources
+C:\Users\Raphael\Documents\Meus arquivos recebidos\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmfuncionarios.resources
+C:\Users\Raphael\Documents\Meus arquivos recebidos\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmlogin.resources
+C:\Users\Raphael\Documents\Meus arquivos recebidos\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmatriculaalunos.resources
+C:\Users\Raphael\Documents\Meus arquivos recebidos\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmenudecadastros.resources
+C:\Users\Raphael\Documents\Meus arquivos recebidos\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmenudepesquisas.resources
+C:\Users\Raphael\Documents\Meus arquivos recebidos\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmpesquisaalunos.resources
+C:\Users\Raphael\Documents\Meus arquivos recebidos\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmpesquisafuncionarios.resources
+C:\Users\Raphael\Documents\Meus arquivos recebidos\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmpesquisasClientes.resources
+C:\Users\Raphael\Documents\Meus arquivos recebidos\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.Resources.resources
+C:\Users\Raphael\Documents\Meus arquivos recebidos\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.telaincial.resources
+C:\Users\Raphael\Documents\Meus arquivos recebidos\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.vbproj.GenerateResource.Cache
+H:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmagenda.resources
+H:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmrelatorios.resources
+H:\beautycomputing\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmrelatoriosdeclientes.resources
+C:\Users\Joel\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.exe
+C:\Users\Joel\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.xml
+C:\Users\Joel\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.pdb
+C:\Users\Joel\Desktop\beautycomputing\beautycomputing\bin\Debug\beautycomputing.exe
+C:\Users\Joel\Desktop\beautycomputing\beautycomputing\bin\Debug\beautycomputing.pdb
+C:\Users\Joel\Desktop\beautycomputing\beautycomputing\bin\Debug\beautycomputing.xml
+C:\Users\Joel\Desktop\beautycomputing\beautycomputing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joel\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmcontroleestoque.resources
+C:\Users\Joel\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmadicionar.resources
+C:\Users\Joel\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmagenda.resources
+C:\Users\Joel\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmagendamentoconsultas.resources
+C:\Users\Joel\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmcarregando.resources
+C:\Users\Joel\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmenuprincipaladm.resources
+C:\Users\Joel\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmenuprincipalusuario.resources
+C:\Users\Joel\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmpesquisaservico.resources
+C:\Users\Joel\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmrelatorios.resources
+C:\Users\Joel\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmservicos.resources
+C:\Users\Joel\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmclientes.resources
+C:\Users\Joel\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmfuncionarios.resources
+C:\Users\Joel\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmlogin.resources
+C:\Users\Joel\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmatriculaalunos.resources
+C:\Users\Joel\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmenudecadastros.resources
+C:\Users\Joel\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmenudepesquisas.resources
+C:\Users\Joel\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmpesquisaalunos.resources
+C:\Users\Joel\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmpesquisafuncionarios.resources
+C:\Users\Joel\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmpesquisasClientes.resources
+C:\Users\Joel\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.Resources.resources
+C:\Users\Joel\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.telaincial.resources
+C:\Users\Joel\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.vbproj.GenerateResource.Cache
+C:\Users\Joel\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmrelatoriodeClientes.resources
+C:\Users\Joel\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmrelatorioalunos.resources
+C:\Users\Joel\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmrelatoriofuncionarios.resources
+C:\Users\Edu\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmrelatorioalunos.resources
+C:\Users\Edu\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmrelatoriodeClientes.resources
+C:\Users\Edu\Desktop\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmrelatoriofuncionarios.resources
+D:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.exe
+D:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.xml
+D:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.pdb
+D:\beautycomputing\beautycomputing\bin\Debug\beautycomputing.exe
+D:\beautycomputing\beautycomputing\bin\Debug\beautycomputing.pdb
+D:\beautycomputing\beautycomputing\bin\Debug\beautycomputing.xml
+D:\beautycomputing\beautycomputing\obj\Debug\ResolveAssemblyReference.cache
+D:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmcontroleestoque.resources
+D:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmadicionar.resources
+D:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmagenda.resources
+D:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmagendamentoconsultas.resources
+D:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmenuprincipaladm.resources
+D:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmenuprincipalusuario.resources
+D:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmpesquisaservico.resources
+D:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmrelatorioalunos.resources
+D:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmrelatoriodeClientes.resources
+D:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmrelatoriofuncionarios.resources
+D:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmrelatorios.resources
+D:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmservicos.resources
+D:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmclientes.resources
+D:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmfuncionarios.resources
+D:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmlogin.resources
+D:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmatriculaalunos.resources
+D:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmenudecadastros.resources
+D:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmmenudepesquisas.resources
+D:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmpesquisaalunos.resources
+D:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmpesquisafuncionarios.resources
+D:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.frmpesquisasClientes.resources
+D:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.Resources.resources
+D:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.telaincial.resources
+D:\beautycomputing\beautycomputing\obj\Debug\beautycomputing.vbproj.GenerateResource.Cache
+H:\TCC Oficial\beautycomputing\beautycomputing\obj\Debug\beautycomputing.exe
+H:\TCC Oficial\beautycomputing\beautycomputing\obj\Debug\beautycomputing.xml
+H:\TCC Oficial\beautycomputing\beautycomputing\obj\Debug\beautycomputing.pdb
